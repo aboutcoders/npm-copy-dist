@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "hannes.schulz@aboutcoders.com"
+  },
+  "bin": {
+    "copy-dist": "./bin/copyDist.js"
+  },
+  "dependencies": {
+    "file-exists": "^1.0.0",
+    "copy_file": "^0.1.0"
+  },
+  "description": "Copies a dist file if it does not exist",
+  "directories": {},
+  "engines": {
+    "node": ">=0.6"
+  },
+  "files": [
+    "bin/"
+  ],
+  "homepage": "https://bitbucket.org/aboutcoders/npm-copy-dist",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "hannes.schulz@aboutcoders.com"
+    }
+  ],
+  "name": "copy-dist",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:aboutcoders/npm-copy-dist.git"
+  },
+  "version": "0.0.1"
+}
